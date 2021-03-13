@@ -23,3 +23,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', base_views.index, name='index'), #'/'에 해당되는 path
 ]
+
+'''
+github url
+https://github.com/momostory/pybo.git
+'''
